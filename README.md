@@ -7,7 +7,7 @@
                        *Url of the project to visit<br>
                        *Url of video demonstrating project
 
-**Title - Your Placement Helper**
+**Title - Your Covid Helper**
 
 **Description** - 
                   This is basically a website , which contains a chatbot.This chatbot can answer general queries of students regarding placements.In this way , this website can be used to help the students.
