@@ -25,11 +25,12 @@
 
        <br><br>    **3 - STATIC WEB APP SERVICE**
              ![STATIC WEB APP service](https://user-images.githubusercontent.com/88972817/190856898-8afa5c30-6747-4bb2-a5d7-355df10b961d.png)
+             
     <br><br> **How services are used ?**
-     - With the help of qna maker service a knowledgebase has been created. affter that azure bot service has been used to create a chatbot and this chatbot is linked
-     with the knowledgebase.After that with help of visual studio code, I have designed a website, which is designed by html , css and javascript.now the file of website 
-     is pushed into my github repository.and after that with the help of azure static web app service I have successsfully hosted my website by using of github.
-     And now it is ready to be visited on internet.
+   - With the help of qna maker service a knowledgebase has been created. and affter that azure bot service has been used to create a chatbot and this chatbot is            linked  with the knowledgebase.
+     After that with help of visual studio code, I have designed a covid 19 website, which is designed by html , css and javascript.
+     now the file of website is pushed into my github repository.and after that with the help of azure static web app service I have successsfully hosted my website by      using of github. And now it is ready to be visited on internet.
+     
    <br><br>  **GitHub repository Url-** (https://github.com/Sajidkminds/covid-bot.git)
      ![github repository screenshot](https://user-images.githubusercontent.com/88972817/190871415-ba9a1d66-4cea-47d4-8cc3-42f7b7bd99bb.png)
 
