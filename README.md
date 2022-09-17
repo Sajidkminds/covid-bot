@@ -34,6 +34,6 @@
 
    <br><br>**the url of the project to visit** - (https://ashy-rock-0d5cd2100.1.azurestaticapps.net/)
     <br><br> **this is how the project looks like**
-          ![final project](https://user-images.githubusercontent.com/88972817/190856913-0d519886-5ac3-4a9f-b51d-9efd268ca6c2.png)
+          ![final project](https://user-images.githubusercontent.com/88972817/190857456-b8bd73b7-8376-495b-87da-fb57c41f3571.png)
           <br><br>
           **Url of video demonstrating project -** (https://youtu.be/XpuVZrfRxig)     
