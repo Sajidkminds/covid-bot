@@ -31,7 +31,7 @@
      is pushed into my github repository.and after that with the help of azure static web app service I have successsfully hosted my website by using of github.
      And now it is ready to be visited on internet.
    <br><br>  **GitHub repository Url-** (https://github.com/Sajidkminds/covid-bot.git)
-     ![github repository screenshot](https://user-images.githubusercontent.com/88972817/190857872-7e435ede-6d02-4e33-a0ee-764eb1c73bba.png)
+     ![github repository screenshot](https://user-images.githubusercontent.com/88972817/190871415-ba9a1d66-4cea-47d4-8cc3-42f7b7bd99bb.png)
 
    <br><br>**the url of the project to visit** - (https://ashy-rock-0d5cd2100.1.azurestaticapps.net/)
     <br><br> **this is how the project looks like**
