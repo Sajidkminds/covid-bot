@@ -29,7 +29,7 @@
      with the knowledgebase.After that with help of visual studio code, I have designed a website, which is designed by html , css and javascript.now the file of website 
      is pushed into my github repository.and after that with the help of azure static web app service I have successsfully hosted my website by using of github.
      And now it is ready to be visited on internet.
-   <br><br>  **GitHub repository Url-** (https://github.com/saifalu/Your-Placement-Helper)
+   <br><br>  **GitHub repository Url-** (https://github.com/Sajidkminds/covid-bot.git)
      ![github repository screenshot](https://user-images.githubusercontent.com/88972817/190856904-50ce3649-08ae-4a0e-97a6-a01d6a6a262a.png)
 
    <br><br>**the url of the project to visit** - (https://ashy-rock-0d5cd2100.1.azurestaticapps.net/)
