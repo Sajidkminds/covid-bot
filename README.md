@@ -30,10 +30,10 @@
      is pushed into my github repository.and after that with the help of azure static web app service I have successsfully hosted my website by using of github.
      And now it is ready to be visited on internet.
    <br><br>  **GitHub repository Url-** (https://github.com/saifalu/Your-Placement-Helper)
-     ![github repository screenshot](https://user-images.githubusercontent.com/92035012/163946536-d6dfed19-ea4f-4953-998e-0e26763e1e13.png)
+     ![github repository screenshot](https://user-images.githubusercontent.com/88972817/190856904-50ce3649-08ae-4a0e-97a6-a01d6a6a262a.png)
 
    <br><br>**the url of the project to visit** - (https://ashy-rock-0d5cd2100.1.azurestaticapps.net/)
     <br><br> **this is how the project looks like**
-          ![final project](https://user-images.githubusercontent.com/92035012/163943223-e762dac9-e75e-475f-bf84-4a623c5462c7.png)
+          ![final project](https://user-images.githubusercontent.com/88972817/190856913-0d519886-5ac3-4a9f-b51d-9efd268ca6c2.png)
           <br><br>
           **Url of video demonstrating project -** (https://youtu.be/XpuVZrfRxig)     
