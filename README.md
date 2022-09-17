@@ -21,7 +21,8 @@
            **1 - QNA MAKER SERVICE**
               ![QNA MAKER SERVICE screenshot](https://user-images.githubusercontent.com/88972817/190856867-39ce73f3-52e1-4402-9b4e-55a9e3eb4bd0.png)
       <br><br>     **2 - AZURE BOT SERVICE**
-             ![AZURE BOT SERVICE screenshot](https://user-images.githubusercontent.com/88972817/190856886-a1c210d1-6bac-4ee4-b4ea-4ee2e994a47e.png)
+             ![AZURE BOT SERVICE screenshot](https://user-images.githubusercontent.com/88972817/190871240-8bfe4698-1433-4470-93e0-5a1c86aa0e4a.png)
+
        <br><br>    **3 - STATIC WEB APP SERVICE**
              ![STATIC WEB APP service](https://user-images.githubusercontent.com/88972817/190856898-8afa5c30-6747-4bb2-a5d7-355df10b961d.png)
     <br><br> **How services are used ?**
