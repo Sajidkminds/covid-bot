@@ -25,7 +25,7 @@
 
 
        <br><br>   **3 - STATIC WEB APP SERVICE**
-              ![STATIC WEB APP service](https://user-images.githubusercontent.com/88972817/190871240-8bfe4698-1433-4470-93e0-5a1c86aa0e4a.png)
+              ![STATIC WEB APP service](https://user-images.githubusercontent.com/88972817/190873414-9ddb8989-733f-481a-843f-6586b704cccd.png)
              
     <br><br>  **How services are used ?**
     
