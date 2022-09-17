@@ -23,7 +23,7 @@
      <br><br>     **2 - AZURE BOT SERVICE**
              ![AZURE BOT SERVICE screenshot](https://user-images.githubusercontent.com/88972817/190873179-1903a418-1ab1-4fc3-a91f-777fb6ed6b0d.png)
     <br><br>   **3 - STATIC WEB APP SERVICE**
-              ![STATIC WEB APP service](https://user-images.githubusercontent.com/88972817/190873414-9ddb8989-733f-481a-843f-6586b704cccd.png)
+              ![STATIC WEB APP service](https://user-images.githubusercontent.com/88972817/190874416-aad60c8f-0d61-445d-b58f-572dbdf0192e.png)
     <br><br>    **How services are used ?**
     
    - With the help of qna maker service a knowledgebase has been created. and affter that azure bot service has been used to create a chatbot and this chatbot is            linked  with the knowledgebase.
