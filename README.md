@@ -36,4 +36,4 @@
     <br><br> **this is how the project looks like**
           ![final project](https://user-images.githubusercontent.com/88972817/190857456-b8bd73b7-8376-495b-87da-fb57c41f3571.png)
           <br><br>
-          **Url of video demonstrating project -** (https://youtu.be/XpuVZrfRxig)     
+         
