@@ -10,7 +10,7 @@
 **Title - Your Covid Helper**
 
 **Description** - 
-                  This is basically a website , which contains a chatbot.This chatbot can answer general queries of person regarding covid.In this way , this website can be used to help the covid guiden.
+                  This is basically a website , which contains a chatbot.This chatbot can answer general queries of person regarding covid.In this way , this website can be used to help the covid guidence.
                   here are some of the demo questions that can be asked to this chatbot through this website -
                <br>   *"is writing clean code important for placement ?* 
                <br>   *"tell me about the sources to prepare for the placemens ?"*
