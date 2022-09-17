@@ -12,8 +12,8 @@
 **Description** - 
                   This is basically a website , which contains a chatbot.This chatbot can answer general queries of person regarding covid.In this way , this website can be used to help the covid guidence.
                   here are some of the demo questions that can be asked to this chatbot through this website -
-               <br>   *"is writing clean code important for placement ?* 
-               <br>   *"tell me about the sources to prepare for the placemens ?"*
+               <br>   *"What is a coronavirus?* 
+               <br>   *"What is a novel coronavirus?"*
                 <br> **this project is designed by using of some of the services provided by microsoft azure.**
             
  **SERVICES USED FROM MICROSOFT AZURE**
