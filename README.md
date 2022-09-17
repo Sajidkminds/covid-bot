@@ -21,9 +21,9 @@
            **1 - QNA MAKER SERVICE**
               ![QNA MAKER SERVICE screenshot](https://user-images.githubusercontent.com/88972817/190856867-39ce73f3-52e1-4402-9b4e-55a9e3eb4bd0.png)
       <br><br>     **2 - AZURE BOT SERVICE**
-             ![AZURE BOT SERVICE screenshot](https://user-images.githubusercontent.com/92035012/163941147-e065dc1a-892a-40f7-a00e-403d0914686c.png)
+             ![AZURE BOT SERVICE screenshot](https://user-images.githubusercontent.com/88972817/190856886-a1c210d1-6bac-4ee4-b4ea-4ee2e994a47e.png)
        <br><br>    **3 - STATIC WEB APP SERVICE**
-             ![STATIC WEB APP service](https://user-images.githubusercontent.com/92035012/163941824-b892a3ed-df7e-43df-afe5-05400b594b98.png)
+             ![STATIC WEB APP service](https://user-images.githubusercontent.com/88972817/190856898-8afa5c30-6747-4bb2-a5d7-355df10b961d.png)
     <br><br> **How services are used ?**
      - With the help of qna maker service a knowledgebase has been created. affter that azure bot service has been used to create a chatbot and this chatbot is linked
      with the knowledgebase.After that with help of visual studio code, I have designed a website, which is designed by html , css and javascript.now the file of website 
