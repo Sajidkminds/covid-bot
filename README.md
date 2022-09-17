@@ -5,12 +5,12 @@
                         *how services are used ?\
                         *GitHub repository Url<br>
                        *Url of the project to visit<br>
-                       *Url of video demonstrating project
+                       
 
 **Title - Your Covid Helper**
 
 **Description** - 
-                  This is basically a website , which contains a chatbot.This chatbot can answer general queries of students regarding placements.In this way , this website can be used to help the students.
+                  This is basically a website , which contains a chatbot.This chatbot can answer general queries of person regarding covid.In this way , this website can be used to help the covid guiden.
                   here are some of the demo questions that can be asked to this chatbot through this website -
                <br>   *"is writing clean code important for placement ?* 
                <br>   *"tell me about the sources to prepare for the placemens ?"*
@@ -19,7 +19,7 @@
  **SERVICES USED FROM MICROSOFT AZURE**
                                     -  This project has used three services from microsoft azure\
            **1 - QNA MAKER SERVICE**
-              ![QNA MAKER SERVICE screenshot](https://user-images.githubusercontent.com/92035012/163940699-0ec2ebdf-20e9-4dfb-942b-fde6549be4b4.png)
+              ![QNA MAKER SERVICE screenshot](https://i.ibb.co/wRWHtkp/Screenshot-11.png)
       <br><br>     **2 - AZURE BOT SERVICE**
              ![AZURE BOT SERVICE screenshot](https://user-images.githubusercontent.com/92035012/163941147-e065dc1a-892a-40f7-a00e-403d0914686c.png)
        <br><br>    **3 - STATIC WEB APP SERVICE**
