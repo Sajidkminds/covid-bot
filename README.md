@@ -19,7 +19,7 @@
  **SERVICES USED FROM MICROSOFT AZURE**
                                     -  This project has used three services from microsoft azure\
            **1 - QNA MAKER SERVICE**
-              ![QNA MAKER SERVICE screenshot](https://i.ibb.co/wRWHtkp/Screenshot-11.png)
+              ![QNA MAKER SERVICE screenshot](https://user-images.githubusercontent.com/88972817/190856867-39ce73f3-52e1-4402-9b4e-55a9e3eb4bd0.png)
       <br><br>     **2 - AZURE BOT SERVICE**
              ![AZURE BOT SERVICE screenshot](https://user-images.githubusercontent.com/92035012/163941147-e065dc1a-892a-40f7-a00e-403d0914686c.png)
        <br><br>    **3 - STATIC WEB APP SERVICE**
